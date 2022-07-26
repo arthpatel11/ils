@@ -1,0 +1,337 @@
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (min-width:1600px) and (max-width:1900px) {}
+
+@media only screen and (min-width:1300px) and (max-width:1367px) {}
+
+@media only screen and (min-width:1200px) and (max-width:1280px) {}
+
+@media screen and (max-width: 1024px) {
+    .navbar-default .navbar-nav>li>a {
+        font-size: 14px;
+        margin: 8px 10px;
+    }
+    .banner .carousel-caption {
+        top: 30%;
+        left: 5%;
+        right: auto;
+    }
+    .lead_type .contant {
+        width: 75%;
+        margin: 0 0 0 5%;
+    }
+    .overlay {
+        position: absolute;
+        top: 200px;
+    }
+    .lead_img img {
+        position: initial;
+    }
+    .Partners_img {
+        width: 50%;
+        position: initial;
+    }
+    .Partners {
+        padding: 70px 0;
+        position: relative;
+    }
+    .Partners_contant {
+        padding: 0px 0;
+    }
+    .Partners a {
+        margin-top: 20px;
+    }
+    .buy_lead {
+        background: url(../images/bg.jpg) no-repeat;
+        background-size: 100% 100%;
+        padding: 50px 0;
+    }
+    .services {
+        padding: 30px 0;
+        background: #eee;
+    }
+    .services p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .services aside {
+        margin: 5px 0;
+        font-size: 16px;
+    }
+    .services a {
+        margin: 0;
+    }
+    .client p {
+        font-size: 13px;
+    }
+    .footer_logo a {
+        font-size: 13px;
+    }
+    .footer_logo i {
+        font-size: 14px;
+        width: 15px;
+    }
+    footer li a {
+        font-size: 13px;
+    }
+    .footer_logo p {
+        font-size: 13px;
+    }
+    #carousel-example-generic2 .carousel-control.right {
+        right: -30px;
+    }
+    #carousel-example-generic2 .carousel-control.left {
+        left: -30px;
+    }
+    .services i {
+        font-size: 56px;
+    }
+    #carousel-example-generic2 .carousel-control {
+        height: 70px;
+    }
+    .services p {
+        font-size: 13px;
+        line-height: 18px;
+        min-height: 55px;
+    }
+    .inner_caption {
+        width: 500px;
+    }
+    .paymentimg {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .logo {
+        text-align: center;
+    }
+    .banner .carousel-caption {
+        position: initial;
+        text-align: center;
+        width: 100%;
+        background: #343537;
+        padding: 30px;
+        height: auto;
+    }
+    .Intent_Insurance,
+    .Partners,
+    .many_insurance_lead,
+    .clients_say {
+        padding: 30px 0;
+    }
+    .lead_type li {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .lead_img {
+        text-align: center;
+    }
+    .overlay {
+        position: absolute;
+        top: auto;
+        bottom: 50px;
+        width: 40%;
+    }
+    .Partners_img {
+        text-align: center;
+        width: 100%;
+        margin-top: 30px;
+    }
+    .Partners_img img {
+        width: 100%;
+    }
+    #carousel-example-generic2 .carousel-control.right {
+        right: -15px;
+    }
+    #carousel-example-generic2 .carousel-control.left {
+        left: -15px;
+    }
+    .white_bg {
+        margin-bottom: 10px;
+    }
+    .client {
+        margin: 40px 0;
+    }
+    footer ul {
+        margin-bottom: 30px;
+    }
+    .inner_caption {
+        width: 100%;
+        position: initial;
+        text-align: center;
+        background: #31383e;
+        padding: 20px;
+    }
+    .style1 li {
+        padding-left: 20px;
+        font-size: 13px;
+    }
+    .style1 li::before {
+        font-size: 13px;
+    }
+    .sidebar_form {
+        background-size: 150% 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #carousel-example-generic2 .carousel-control.right {
+        right: 0;
+    }
+    #carousel-example-generic2 .carousel-control.left {
+        left: 0;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 14px;
+        margin: 0px;
+    }
+    .navbar-toggle {
+        margin-right: 0;
+        padding: 25px 0px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .navbar-collapse {
+        padding: 0 15px;
+    }
+    .logo {
+        float: left;
+        width: 70%;
+        text-align: left;
+    }
+    .navbar-header {
+        float: right;
+        width: 30%;
+    }
+    .navbar-toggle .icon-bar {
+        background: #fff;
+    }
+    .pad_l {
+        padding-left: 15px;
+    }
+    .white_bg {
+        padding: 15px 0px;
+    }
+    .white_bg img {
+        width: 100%;
+    }
+    .carousel-indicators {
+        margin: 0;
+        width: 20px;
+        left: auto;
+        right: 10px;
+        bottom: 50px;
+    }
+    .client {
+        margin: 40px 0 70px 0;
+    }
+    .footer_div {
+        text-align: center;
+    }
+    .social {
+        float: none;
+        margin: 20px 0;
+    }
+    .Title h1 {
+        font-size: 28px;
+    }
+    .Title h2,
+    .Title h3 {
+        font-size: 22px;
+    }
+    .lead_type i,
+    .lead_type .contant {
+        float: none;
+        width: 100%;
+        margin: 0;
+    }
+    .lead_type li {
+        text-align: center;
+    }
+    .lead_type span {
+        margin: 0;
+    }
+    .buy_lead {
+        background: #4C5660;
+    }
+    .sidebar_form {
+        background-size: 100% 100%;
+        width: 300px;
+        margin: 0 auto;
+    }
+    #progressbar li {
+        font-size: 13px;
+        width: 23%;
+        margin-right: 2%;
+    }
+    #progressbar li strong {
+        padding: 7px;
+        margin-top: 15px;
+    }
+    #msform fieldset {
+        padding: 15px;
+    }
+    #msform .action-button {
+        max-width: 100px;
+        background-size: 350%;
+    }
+    .leadmiddle {
+        flex-wrap: wrap;
+    }
+    .leadlist li select,
+    .leadlist li input {
+        padding: 0px 2px !important;
+    }
+    .leadmiddle p {
+        margin-top: 20px;
+    }
+    #form_part {
+        padding: 0px 0;
+        min-height: 2750px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .overlay {
+        position: absolute;
+        top: auto;
+        bottom: 50px;
+        width: 85%;
+    }
+    .banner a {
+        font-size: 16px;
+        padding: 12px 20px;
+        margin-top: 10px;
+    }
+    .Partners a {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+    .many_insurance_lead aside {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .buy_contant {
+        width: auto;
+    }
+    .Title h1 {
+        font-size: 24px;
+    }
+    .Title h2,
+    .Title h3 {
+        font-size: 20px;
+    }
+    .Title span {
+        font-size: 16px;
+    }
+    .overlay {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,628 @@
+@media only screen and (min-width:1920px) {}
+
+@media only screen and (min-width:1600px) and (max-width:1919px) {
+    .goal .goalimg1 {
+        top: -115px;
+        left: 20px;
+        width: 100px;
+    }
+    .goal .goalimg2 {
+        right: 20px;
+        width: 280px;
+    }
+    .continn .contform {
+        padding-left: 150px;
+    }
+    .navbar::before {
+        width: 24%;
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+    .goal .goalimg1 {
+        top: -105px;
+        left: 20px;
+        width: 90px;
+    }
+    .goal .goalimg2 {
+        right: 20px;
+        width: 250px;
+    }
+    .continn .contform {
+        padding-left: 70px;
+    }
+    .navbar::before {
+        width: 20%;
+    }
+}
+
+@media only screen and (min-width:1300px) and (max-width:1399px) {
+    .container {
+        max-width: 1320px;
+    }
+    .navbar::before {
+        width: 17%;
+    }
+    .goal .goalimg1 {
+        top: -105px;
+        left: 20px;
+        width: 90px;
+    }
+    .goal .goalimg2 {
+        right: 10px;
+        width: 250px;
+    }
+    .continn .contform {
+        padding-left: 40px;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1280px) {
+    .lead_content .tab_right p {
+        margin-right: 0px;
+    }
+    .navbar::before {
+        width: 22%;
+    }
+    .goal .goalimg1 {
+        top: -105px;
+        left: 20px;
+        width: 90px;
+    }
+    .goal .goalimg2 {
+        right: 10px;
+        width: 250px;
+    }
+    .smallban aside {
+        font-size: 44px;
+        line-height: normal;
+    }
+    .continn .contform {
+        padding-left: 70px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .navbar::before {
+        width: 25%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 15px;
+    }
+    .banner img {
+        height: auto;
+    }
+    .banner_caption aside {
+        font-size: 55px;
+    }
+    .fornbtn button {
+        font-size: 14px;
+    }
+    .connectlist li {
+        width: 19%;
+        padding: 10px;
+    }
+    .lead_content .tab_right p {
+        font-size: 14px;
+        margin-bottom: 25px;
+        margin-right: 0px;
+        line-height: 20px;
+    }
+    .style_1 li {
+        line-height: 28px;
+        margin-bottom: 5px;
+    }
+    footer ul li {
+        margin-bottom: 10px;
+    }
+    footer .contact li:first-child {
+        font-size: 12px;
+    }
+    footer ul li a {
+        font-size: 12px;
+    }
+    .comnpadding {
+        padding: 60px 0;
+    }
+    .sale_content .sale_left .subtitle {
+        margin-bottom: 0px;
+        font-size: 18px;
+    }
+    .sale_content .sale_left .comntitle {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 10px;
+    }
+    .sale_content .sale_left p {
+        margin-bottom: 20px;
+    }
+    .sale_tab .nav-link {
+        font-size: 18px;
+    }
+    .business img {
+        width: 100%;
+    }
+    .Get_Started img {
+        width: 100%;
+    }
+    .growbox .growimg {
+        width: 100%;
+    }
+    .custable td,
+    .custable th {
+        font-size: 14px;
+    }
+    .goal .goalimg1,
+    .goal .goalimg2 {
+        display: none;
+    }
+    .banner_caption aside {
+        font-size: 40px;
+        line-height: normal;
+    }
+    .smallform form.sform {
+        margin-top: 20px;
+    }
+    .continn .contform {
+        padding-left: 50px;
+    }
+    .store .top_head {
+        margin-top: 0px;
+    }
+    .storebox p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    header {
+        z-index: 2;
+    }
+    .navbar::before {
+        width: 100%;
+    }
+    .navbar-light .navbar-nav .nav-link,
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #FFFFFF;
+    }
+    .navbar-light .navbar-nav .login a {
+        background: #002e5b;
+        text-align: center;
+    }
+    .banner_caption aside {
+        font-size: 45px;
+        margin: 0px 30px;
+    }
+    .smallban aside {
+        font-size: 28px;
+        margin: 0px 30px;
+    }
+    .connectlist li {
+        font-size: 14px;
+    }
+    .comnpadding {
+        padding: 40px 0;
+    }
+    .Get_Started p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .lead_tab .tab_box .tab_2,
+    .lead_tab .nav-item .nav-link:hover .tab_box .tab_1,
+    .lead_tab .nav-item .active .tab_box .tab_1,
+    .lead_tab .tab_box .tab_1,
+    .lead_tab .nav-item .nav-link:hover .tab_box .tab_2,
+    .lead_tab .nav-item .active .tab_box .tab_2 {
+        display: none;
+    }
+    .lead_tab .tab_box {
+        padding: 10px;
+        height: 55px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .lead_tab .nav-item .active .tab_box aside {
+        font-size: 16px;
+        line-height: initial;
+    }
+    .lead_content .tab_left {
+        margin-bottom: 20px;
+    }
+    .work_detail {
+        margin-bottom: 40px;
+    }
+    .sale_left {
+        margin-bottom: 40px;
+    }
+    .know_inner .inner_left {
+        width: 70%;
+    }
+    .know_inner .know_btn {
+        width: 25%;
+        padding: 55px 10px;
+        text-align: center;
+    }
+    .know_inner .know_btn::before {
+        display: none;
+    }
+    .know_inner .know_btn:hover {
+        padding: 55px 10px;
+    }
+    footer hr {
+        margin-top: 0px;
+    }
+    .work_inner a img {
+        margin: 20px auto;
+        display: block;
+    }
+    .smallform form {
+        flex-wrap: wrap;
+        margin-top: 25px;
+    }
+    .forninput {
+        width: 100%;
+        padding-bottom: 0px;
+    }
+    .fornbtn {
+        width: 100%;
+        padding: 20px;
+        background-color: #002e5b;
+    }
+    .fornbtn button {
+        padding: 15px;
+    }
+    .fornbtn button:hover:before {
+        opacity: 0;
+    }
+    .fornbtn button:hover {
+        padding-top: 15px;
+    }
+    .navbar-light .navbar-nav .nav-link:hover,
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .show>.nav-link,
+    .navbar-light .navbar-nav .active>.nav-link,
+    .navbar-light .navbar-nav .nav-link.show,
+    .navbar-light .navbar-nav .nav-link.active {
+        color: #FFFFFF;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        padding: 0;
+    }
+    .sale_tab {
+        justify-content: space-between;
+        margin-bottom: 25px;
+        margin-right: 0;
+    }
+    .sale_tab .nav-link {
+        width: 23%;
+    }
+    .sale_tab .nav-link.active::after {
+        bottom: -33px;
+        left: 50%;
+        right: auto;
+        top: auto;
+        border-top: 15px solid #002E5B;
+        border-left: 7px solid transparent;
+        border-right: 7px solid transparent;
+    }
+    .Get_Started .comntitle {
+        font-size: 25px;
+    }
+    .work_detail .comntitle {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .goalbox .comntitle {
+        font-size: 35px;
+        line-height: 45px;
+        margin-bottom: 30px;
+    }
+    .build .top_head {
+        max-width: 100%;
+    }
+    .business img {
+        display: none;
+    }
+    .sale_content .sale_right img {
+        display: none;
+    }
+    .custable ul li {
+        width: 33%;
+        margin-bottom: 20px;
+    }
+    .custable ul li p {
+        font-size: 14px;
+    }
+    .custable ul li p:first-child {
+        font-size: 15px;
+    }
+    .growbox .growimg {
+        display: none;
+    }
+    .growbox {
+        padding: 20px;
+    }
+    .growbox input {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .custable td,
+    .custable th {
+        display: inline-block;
+        width: 50%;
+    }
+    .build .buildimg {
+        display: none;
+    }
+    .navbar {
+        padding: 10px 0;
+    }
+    .banner {
+        margin-top: 130px;
+    }
+    .continn .contform {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .continn .contmap {
+        width: 90%;
+        height: 300px;
+        margin: 40px auto;
+    }
+    .beginform .form-control,
+    .beginform .form-select {
+        width: 100%;
+    }
+    .maincount .countbox aside {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .offer .offerbox {
+        padding: 20px 40px;
+    }
+    .offer .offerbox span {
+        font-size: 20px;
+    }
+    .conlist li {
+        width: 46%;
+        font-size: 14px;
+    }
+    .storeinner .storelist li,
+    .storeinner p {
+        font-size: 15px;
+    }
+    .store .top_head .comntitle {
+        font-size: 30px;
+    }
+    .storeinner aside {
+        min-height: 120px;
+    }
+    .storebox {
+        padding: 10px 0;
+    }
+    .storebox .boxicon {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .topraw {
+        justify-content: center;
+    }
+    .topraw .topleft {
+        margin-bottom: 0px;
+    }
+    .topleft a {
+        font-size: 12px;
+        margin: 0px 5px;
+    }
+    .topleft a i {
+        margin-right: 0px;
+    }
+    .navbar {
+        padding: 5px 0;
+    }
+    .banner_caption {
+        display: none;
+    }
+    .smallform form {
+        margin-top: 10px;
+        flex-wrap: wrap;
+    }
+    .forninput {
+        width: 100%;
+        padding: 10px;
+        padding-bottom: 0px;
+    }
+    .forninput input,
+    .forninput select {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .fornbtn {
+        width: 100%;
+        background-color: #002E5B;
+        padding: 10px;
+        padding-top: 0px;
+    }
+    .fornbtn button {
+        font-size: 16px;
+        padding: 15px;
+    }
+    .connectlist {
+        justify-content: center;
+    }
+    .connectlist li {
+        width: 44%;
+        margin: 8px;
+    }
+    .Get_Started button {
+        margin-bottom: 30px;
+    }
+    .top_head .comntitle {
+        font-size: 30px;
+    }
+    .lead_tab .nav-item {
+        width: 49%;
+        margin-bottom: 10px;
+    }
+    .lead_tab .nav-item .nav-link.active::after {
+        display: none;
+    }
+    .lead_tab .tab_box aside,
+    .lead_tab .nav-item .active .tab_box aside {
+        font-size: 14px;
+    }
+    .sale_tab .nav-item .nav-link {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .sale_tab .nav-item .nav-link.active::after {
+        display: none;
+    }
+    .know_inner {
+        flex-wrap: wrap;
+        padding: 20px 0px;
+    }
+    .know_inner .inner_left {
+        width: 100%;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+    .know_inner .know_btn {
+        width: 100%;
+        padding: 15px 10px;
+    }
+    .know_inner .know_btn:hover {
+        padding: 15px 10px;
+    }
+    .know_inner .inner_left .comntitle {
+        color: #FFFFFF;
+        margin-bottom: 10px;
+    }
+    .know_inner .inner_left .subtitle {
+        font-size: 16px;
+    }
+    .banner {
+        margin-top: 120px;
+    }
+    .comntitle {
+        font-size: 22px;
+    }
+    .sale_tab li {
+        width: 49%;
+    }
+    .lead_tab {
+        margin-bottom: 10px;
+    }
+    .sale_tab {
+        margin-bottom: 10px;
+    }
+    .sale_tab .nav-link {
+        width: 49%;
+    }
+    .sale_tab .nav-link {
+        padding: 10px;
+    }
+    .sale_tab .nav-link.active::after {
+        display: none;
+    }
+    .growbox {
+        padding: 40px 10px;
+    }
+    .goalbox .comntitle {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .custacc li a {
+        font-size: 18px;
+        padding: 10px 10px;
+    }
+    .custacc .inner {
+        padding: 0px 10px 10px;
+    }
+    .custacc .inner p {
+        font-size: 14px;
+    }
+    .withleft aside {
+        margin-bottom: 20px;
+    }
+    .custable ul li {
+        width: 50%;
+        margin-bottom: 10px;
+    }
+    .custable td,
+    .custable th {
+        width: 100%;
+        border-bottom: 0px;
+        border-radius: 0px;
+    }
+    .own .ownimg {
+        display: none;
+    }
+    .own .top_head .comntitle {
+        line-height: 38px;
+    }
+    .continn .contform {
+        padding: 0px 70px;
+    }
+    .continn .contmap {
+        width: 80%;
+    }
+    .contform ul li a {
+        font-size: 18px;
+    }
+    .contform ul li {
+        padding-bottom: 10px;
+    }
+    .maincount .countbox {
+        width: 50%;
+        margin-bottom: 20px;
+        border: none;
+    }
+    .maincount .countbox:nth-child(odd) {
+        border-right: 1px solid #e9e9e9;
+    }
+    .offer .offerbox span {
+        display: none;
+    }
+    .offer .offerbox {
+        padding: 10px 10px;
+    }
+    .offer::before,
+    .offer::after {
+        display: none;
+    }
+    .beginform {
+        margin-top: 20px;
+    }
+    .conlist li {
+        font-size: 14px;
+        width: 100%;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .storeinner aside {
+        min-height: auto;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .banner {
+        margin-top: 150px;
+    }
+    .topraw .topleft {
+        margin-bottom: 10px;
+    }
+    .continn .contform {
+        padding: 0px 15px;
+    }
+    .continn .contmap {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:360px) {}
